@@ -5,7 +5,7 @@ const Header = () => {
   return (
   <Container>
       
-      <a href="#">
+      <a href="/">
         <img src="/images/logo.svg" alt="logo" />
       </a>
       <Menu>
